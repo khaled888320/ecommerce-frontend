@@ -62,3 +62,8 @@ npm run dev
 
 **Khaled Marouani** — Full Stack Developer
 - GitHub: [@khaled888320](https://github.com/khaled888320)
+
+## 🌐 Live Demo
+
+- **Frontend**: https://ecommerce-frontend-peach-eta.vercel.app
+- **Backend API**: https://ecommerce-api-r1wr.onrender.com
